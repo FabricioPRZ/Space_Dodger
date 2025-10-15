@@ -4,7 +4,6 @@ Un juego arcade de naves espaciales desarrollado en Python con Pygame. Esquiva a
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Raspberry%20Pi-lightgrey.svg)
 
 ## 🎮 Características
