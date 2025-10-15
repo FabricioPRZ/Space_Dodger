@@ -191,7 +191,7 @@ Las contribuciones son bienvenidas. Por favor:
 ## 👤 Autor
 
 **Victor Fabricio Pérez Constantino**
-- GitHub: [@tuusuario](https://github.com/FabricioPRZ)
+- GitHub: [@FabricioPRZ](https://github.com/FabricioPRZ)
 
 ## 🌟 Agradecimientos
 
